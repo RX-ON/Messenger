@@ -10,9 +10,7 @@
 В будущем обязательно попробую написать свой шаблонизатор.
 
 Ах да, кажется, я что-то напутал с ветками на GitHub`е...
-## Макет:
-https://www.figma.com/file/24EUnEHGEDNLdOcxg7ULwV/Chat?node-id=0%3A1
 
-## Netlify:
-https://gracious-noyce-6673a4.netlify.app
+## [Макет](https://www.figma.com/file/24EUnEHGEDNLdOcxg7ULwV/Chat?node-id=0%3A1)
+## [Netlify](https://gracious-noyce-6673a4.netlify.app)
 
