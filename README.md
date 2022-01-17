@@ -9,10 +9,27 @@
 Хотел и свой шаблонизатор и свой макет, но в данный момент нет на это времени.
 В будущем обязательно попробую написать свой шаблонизатор.
 
-Ах да, кажется, я что-то напутал с ветками на GitHub`е...
-## Макет:
-https://www.figma.com/file/24EUnEHGEDNLdOcxg7ULwV/Chat?node-id=0%3A1
 
-## Netlify:
-https://gracious-noyce-6673a4.netlify.app
+## Команды для запуска
+Для запуска в режиме разработки:
+```
+$ npm run dev
+```
+Чтобы выкатить билд в папку dist:
+```
+$ npm run build
+```
+Для запуска сервера:
+```
+$ npm run server
+```
+Для запуска проекта:
+```
+$ npm run start
+```
 
+## Ссылки
+
+- [Макет в Figma](https://www.figma.com/file/24EUnEHGEDNLdOcxg7ULwV/Chat?node-id=0%3A1) (Пока взял стандартный)
+- [Netlify](https://peaceful-cray-f958c1.netlify.app/)
+- [GitHub](https://github.com/RX-ON/Messenger)
