@@ -6,13 +6,11 @@ block style
     link(rel="stylesheet" href="/src/modules/message/message.scss")
 
 block script
-    script(src="/src/pages/chat-select/chat-select.js")
-    script(src="/src/modules/chats/chats.js")
-    script(src="/src/modules/message/message.js")
 
 block content 
     aside 
         include ../../modules/chats/chats.pug
 
+    - const data = {src: '', label: 'Василий'}
     .message-field
         include ../../modules/message/message.pug

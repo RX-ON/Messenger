@@ -5,7 +5,6 @@ block style
     link(rel="stylesheet" href="/src/pages/components/info-input/info-input.scss")
 
 block script
-    script(src="/src/pages/user-edit-profile/user-edit-profile.js")
 
 block content 
     section.info
@@ -31,10 +30,8 @@ block content
             }
         .img
             img(src=data.src || "https://via.placeholder.com/150", alt="")
-        
-        
 
-        ul
+        form
             each value, key in data.userData
                 include ../components/info-input/info-input.pug
         - const btnName = 'Сохранить'

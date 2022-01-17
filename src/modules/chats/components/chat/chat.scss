@@ -1,3 +1,5 @@
+$gray-color: #999999;
+
 hr {
     width: 290px;
     margin: 0 auto;
@@ -47,11 +49,11 @@ hr {
         span {
             display: block;
             font-size: 9px;
-            color: #999999;
+            color: $gray-color;
         }
         
         p {
-            color: #999999;
+            color: $gray-color;
             margin: 0;
             max-width: 193px;
             max-height: 30px;
